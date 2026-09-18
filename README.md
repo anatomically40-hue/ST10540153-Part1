@@ -1,47 +1,53 @@
 # Soshanguve Community Forum Website
 
+
+**Student Name:** Mahlatsi Ofentse Mosekaleme
+**Student Number:** ST10540153
+**Module:** WEDE5020W
+**Assessment:** Part 1
+
 ## Project Overview
 
-The Soshanguve Community Forum is a non-profit community project designed to provide a platform where residents can access community information, safety information, services and ways to get involved in the community.
+The Soshanguve Community Forum is a non-profit community project designed to provide useful information to residents of Soshanguve.
 
-The website is designed to make important information easier for community members to access online.
+The website provides information about the community forum, its services, enquiries and contact details. The purpose of the website is to make community information easier to access online and to provide residents with a simple way to find information about the forum.
 
-## Project Goals and Objectives
+## Website Goals and Objectives
 
-The main goal of the website is to create an accessible and informative online platform for the Soshanguve community.
+The main goal of the website is to create an informative and accessible online platform for the Soshanguve community.
 
-The objectives of the website are to:
+The objectives are to:
 
-* Provide useful community information.
-* Share safety-related information and alerts.
-* Provide information about available community services.
-* Make it easier for residents to find relevant information.
-* Provide contact and enquiry options.
-* Encourage community participation and communication.
+* Provide useful information about the Soshanguve Community Forum.
+* Provide information about community services.
+* Share relevant community and safety information.
+* Make important information easier for residents to access.
+* Provide users with enquiry and contact options.
+* Encourage communication and community participation.
 * Create a simple and user-friendly website.
 
-## Website Features and Functionality
+## Key Features and Functionality
 
-The website contains the following main pages and features:
+The website includes:
 
-* Home page with an introduction to the Soshanguve Community Forum.
-* About page containing information about the organisation and community.
-* Services page describing services and community-related activities.
-* Enquiry page allowing users to submit enquiries.
-* Contact Us page providing contact information.
-* Navigation menu linking the main pages.
-* Images used to support the website content.
-* CSS styling to improve the appearance and layout of the website.
+* A home page introducing the Soshanguve Community Forum.
+* An About page providing information about the forum.
+* A Services page providing information about available services.
+* An Enquiry page for users to make enquiries.
+* A Contact Us page containing contact information.
+* Navigation links between the website pages.
+* Images to support the website content.
+* CSS styling for the website layout and presentation.
 
 ## Website Pages
 
 The website consists of the following pages:
 
-1. **Home / Index** – Introduction to the Soshanguve Community Forum.
-2. **About** – Information about the organisation and community.
-3. **Services** – Information about community services.
-4. **Enquiry** – An area for users to make enquiries.
-5. **Contact Us** – Contact information for the community forum.
+1. **Home / Index** – Introduces the Soshanguve Community Forum.
+2. **About** – Provides information about the forum and community.
+3. **Services** – Provides information about community services.
+4. **Enquiry** – Provides an area for users to submit enquiries.
+5. **Contact Us** – Provides contact information.
 
 ## Technologies Used
 
@@ -49,12 +55,60 @@ The website was developed using:
 
 * HTML5
 * CSS3
-* Images and other website assets
-* GitHub for version control and project submission
+* Images and website assets
+* GitHub for version control and repository submission
+
+## Timeline and Milestones
+
+The project development includes the following stages:
+
+1. Research and identify the community problem.
+2. Develop the project proposals.
+3. Plan the website structure and content.
+4. Create the sitemap and file structure.
+5. Develop the HTML pages.
+6. Add CSS styling.
+7. Add images and website content.
+8. Test the website pages and navigation.
+9. Upload the website to the GitHub repository.
+10. Continue updating the website and README during later parts of the project.
+
+## Part 1 Details
+
+Part 1 focuses on the planning and initial development of the website.
+
+The Part 1 work includes:
+
+* Website project proposals.
+* Project goals and objectives.
+* Current website analysis.
+* Proposed website features and functionality.
+* Website planning and structure.
+* Sitemap.
+* File and folder structure.
+* HTML structure and content.
+* CSS styling.
+* Website navigation.
+* Initial GitHub repository setup.
+* README documentation.
+* Changelog documentation.
+
+**Note:** Part 2 and Part 3 will be added and documented in this repository as the project continues.
+
+## Sitemap
+
+The website navigation is structured as follows:
+
+```text
+Home / Index
+│
+├── About
+├── Services
+├── Enquiry
+└── Contact Us
+```
 
 ## File and Folder Structure
-
-The project is organised into separate HTML pages, a CSS stylesheet and an images folder.
 
 ```text
 ST10540153-Part1/
@@ -68,47 +122,12 @@ ST10540153-Part1/
 └── images/
 ```
 
-## Sitemap
-
-The website navigation is structured as follows:
-
-```text
-Home
-│
-├── About
-├── Services
-├── Enquiry
-└── Contact Us
-```
-
-## Project Timeline
-
-The project was developed through different stages including:
-
-1. Researching the community problem.
-2. Developing the project proposals.
-3. Planning the website structure.
-4. Creating the sitemap and website pages.
-5. Developing the HTML structure.
-6. Adding CSS styling.
-7. Adding images and website content.
-8. Testing the navigation and website pages.
-9. Uploading the completed project to GitHub.
-
-## Budget
-
-The website project was planned with consideration for the costs associated with developing and maintaining a community website. The project focuses on using accessible and affordable web technologies.
-
-## References
-
-The project research and website content were developed using the sources and references identified during the Part 1 project research and proposal.
-
 ## Changelog
 
 ### Version 1.0 — Initial Website Upload
 
 * Created the initial website structure.
-* Added the Home page.
+* Added the Home / Index page.
 * Added the About page.
 * Added the Services page.
 * Added the Enquiry page.
@@ -116,10 +135,20 @@ The project research and website content were developed using the sources and re
 * Added CSS styling.
 * Added website images and assets.
 * Added navigation between the website pages.
-* Uploaded the completed website project to GitHub.
+* Created the GitHub repository.
+* Uploaded the website files to GitHub.
+* Added the README documentation.
+* Added project information and Part 1 details to the README.
 
-## GitHub
 
-This repository contains the Part 1 website project for the WEDE5020W module.
+## References
 
-The repository is used to maintain the website files and record the development of the project.
+The project research, planning and website content were developed using the sources and references used during the Part 1 project research and proposal.
+
+References will be maintained and updated as the project continues.
+
+## Repository
+
+This private GitHub repository contains the development files and documentation for the WEDE5020W Part 1 website project.
+
+The repository will be updated as further development takes place in Part 2 and Part 3.
