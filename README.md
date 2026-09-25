@@ -194,17 +194,17 @@ The repository contains the website HTML files, CSS stylesheet, image assets and
 
 The desktop version demonstrates the website layout at a large screen size.
 
-![Desktop View](evidence/desktop-view.png)
+![Desktop View](WhatsApp%20Image%202026-09-25%20at%2022.56.33%20%281%29.jpeg)
 
 ### Tablet View
 
 The tablet version demonstrates how the website responds to the tablet screen size.
 
-![Tablet View](evidence/tablet-view.png)
+![Tablet View](WhatsApp%20Image%202026-09-25%20at%2022.56.34.jpeg)
 
 ### Mobile View
 
 The mobile version demonstrates how the website responds to a narrow mobile screen and uses a single-column layout.
 
-![Mobile View](evidence/mobile-view.png)
 
+![Mobile View](WhatsApp%20Image%202026-09-25%20at%2022.56.33.jpeg)
