@@ -181,4 +181,23 @@ This GitHub repository contains the development files and documentation for the 
 
 The repository contains the website HTML files, CSS stylesheet, image assets and README documentation.
 
-The repository will be updated as further development takes place.
+## Responsive Design Evidence
+
+### Desktop View
+
+The desktop version demonstrates the website layout at a large screen size.
+
+![Desktop View](evidence/desktop-view.png)
+
+### Tablet View
+
+The tablet version demonstrates how the website responds to the tablet screen size.
+
+![Tablet View](evidence/tablet-view.png)
+
+### Mobile View
+
+The mobile version demonstrates how the website responds to a narrow mobile screen and uses a single-column layout.
+
+![Mobile View](evidence/mobile-view.png)
+
