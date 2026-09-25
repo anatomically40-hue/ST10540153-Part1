@@ -172,8 +172,15 @@ Mobile screenshot will be added here.
 References
 
 References used for the project research, website content, data and visual resources will be listed here according to the required Harvard referencing format.
+## References
 
-The reference list will be updated with the sources used during the development of the website.
+South African Police Service (SAPS) (2026). *Crime statistics*. Available at: https://www.saps.gov.za/services/crimestats.php (Accessed: 24 September 2026).
+
+South African Police Service (SAPS) (2026). *SAPS official website*. Available at: https://www.saps.gov.za/ (Accessed: 24 September 2026).
+
+World Wide Web Consortium (W3C) (2026). *HTML and CSS standards and guidance*. Available at: https://www.w3.org/ (Accessed: 24 September 2026).
+
+Google Fonts (2026). *Google Fonts*. Available at: https://fonts.google.com/ (Accessed: 24 September 2026).
 
 GitHub Repository
 
