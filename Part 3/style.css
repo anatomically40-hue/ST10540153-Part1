@@ -1,18 +1,4 @@
-/* ============================================================
-   Soshanguve Community Forum — shared stylesheet
-   Palette:
-     --ink     #16202A  (near-black navy — header/footer/text)
-     --paper   #F4F0E6  (warm off-white background)
-     --alert   #D6472B  (siren red-orange — emergency / primary CTA)
-     --steel   #2F5164  (deep teal-blue — secondary accent, nav hover)
-     --clear   #4C7A62  (muted safety green — reassurance / positive)
-     --line    #DDD5C4  (hairline borders on paper)
-   Type:
-     Display — 'Space Grotesk' (headings, nav, buttons)
-     Body    — 'IBM Plex Sans' (paragraphs, forms)
-   Signature element: the "pulse rings" behind the emergency button,
-   representing an alert radiating out to the whole community.
-   ============================================================ */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
