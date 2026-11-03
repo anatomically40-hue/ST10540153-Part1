@@ -1,8 +1,9 @@
 # robots.txt for the Soshanguve Community Forum website
+
+
 # All pages may be crawled.
+
 User-agent: *
 Allow: /
 
-# REPLACE the address below with your real Netlify (or other) address after you deploy,
-# then delete this comment line.
-Sitemap: https://YOUR-SITE-NAME.netlify.app/sitemap.xml
+Sitemap: https://willowy-lollipop-cd5d31.netlify.app/sitemap.xml
