@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- REPLACE every YOUR-SITE-NAME.netlify.app below with your real address after you deploy. -->
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-SITE-NAME.netlify.app/</loc></url>
-  <url><loc>https://YOUR-SITE-NAME.netlify.app/About.html</loc></url>
-  <url><loc>https://YOUR-SITE-NAME.netlify.app/Services.html</loc></url>
-  <url><loc>https://YOUR-SITE-NAME.netlify.app/Enquiry.html</loc></url>
-  <url><loc>https://YOUR-SITE-NAME.netlify.app/Contact%20Us.html</loc></url>
+  <url>
+    <loc>https://willowy-lollipop-cd5d31.netlify.app/</loc>
+  </url>
+  <url>
+    <loc>https://willowy-lollipop-cd5d31.netlify.app/about</loc>
+  </url>
+  <url>
+    <loc>https://willowy-lollipop-cd5d31.netlify.app/services</loc>
+  </url>
+  <url>
+    <loc>https://willowy-lollipop-cd5d31.netlify.app/enquiry</loc>
+  </url>
+  <url>
+    <loc>https://willowy-lollipop-cd5d31.netlify.app/Contact%20Us.html</loc>
+  </url>
 </urlset>
